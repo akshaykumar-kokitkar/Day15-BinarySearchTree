@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\bin\Debug\net6.0\BinarySearchTreeProblems.exe
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\bin\Debug\net6.0\BinarySearchTreeProblems.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\bin\Debug\net6.0\BinarySearchTreeProblems.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\bin\Debug\net6.0\BinarySearchTreeProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\bin\Debug\net6.0\ref\BinarySearchTreeProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\bin\Debug\net6.0\BinarySearchTreeProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\obj\Debug\net6.0\BinarySearchTreeProblems.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\obj\Debug\net6.0\BinarySearchTreeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\obj\Debug\net6.0\BinarySearchTreeProblems.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\obj\Debug\net6.0\BinarySearchTreeProblems.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\obj\Debug\net6.0\BinarySearchTreeProblems.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\obj\Debug\net6.0\BinarySearchTreeProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\obj\Debug\net6.0\ref\BinarySearchTreeProblems.dll
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\obj\Debug\net6.0\BinarySearchTreeProblems.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\BinarySearchTreeProblems\BinarySearchTreeProblems\obj\Debug\net6.0\BinarySearchTreeProblems.genruntimeconfig.cache
